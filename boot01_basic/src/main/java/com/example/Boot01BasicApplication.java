@@ -8,7 +8,7 @@ public class Boot01BasicApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Boot01BasicApplication.class, args);
-		System.out.println("main");
+		System.out.println("another");
 	}
 
 }
